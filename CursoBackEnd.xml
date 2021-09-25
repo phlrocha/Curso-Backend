@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CursoBackEnd</name>
+    </assembly>
+    <members>
+        <member name="M:CursoBackEnd.Controllers.CursoController.Post(CursoBackEnd.Models.Cursos.CursoViewModelInput)">
+            <summary>
+            teste
+            </summary>
+            <param name="loginViewModelInput"></param>
+            <returns></returns>
+            
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:CursoBackEnd.Controllers.UsuarioController.Logon(CursoBackEnd.Controllers.LoginViewModelInput)" -->
+        <member name="M:CursoBackEnd.Controllers.UsuarioController.Registrar(CursoBackEnd.Models.Usuarios.RegistroViewModelInput)">
+            <summary>
+            Este serviço permite cadastrar um usuário cadastrado não existente.
+            </summary>
+            <param name="loginViewModelInput">View model do registro de login</param>
+        </member>
+    </members>
+</doc>
